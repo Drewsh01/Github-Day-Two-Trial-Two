@@ -9,6 +9,8 @@ public class TestOne{
 
 	System.out.println("Testing Error 2");
 
+	System.out.println("New Feature");
+
 
 	}
 }
